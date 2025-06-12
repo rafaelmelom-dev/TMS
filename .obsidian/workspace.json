@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Testes e Manutenção de Software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Testes e Manutenção de Software"
             }
           }
         ]
@@ -170,13 +170,13 @@
   },
   "active": "29c53505ad0b1b66",
   "lastOpenFiles": [
-    "MODELOS DE MATURIDADE DE PROCESSOS.md",
     "README.md",
+    "OUTROS CASOS NOTÁVEIS ....md",
+    "NORMAS  DE QUALIDADE.md",
+    "MODELOS DE MATURIDADE DE PROCESSOS.md",
+    "CARACTERÍSTICAS E ASPECTOS.md",
     "Testes e Manutenção de Software.md",
     "CONCEITO DE QUALIDADE DE SOFTWARE.md",
-    "NORMAS  DE QUALIDADE.md",
-    "OUTROS CASOS NOTÁVEIS ....md",
-    "CARACTERÍSTICAS E ASPECTOS.md",
     "Requirements.md",
     "Planning.md",
     "Search.md",
