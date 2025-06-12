@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "16c27f6e61123793",
+    "type": "split",
+    "children": [
+      {
+        "id": "c401d346c631bd40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29c53505ad0b1b66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MODELOS DE MATURIDADE DE PROCESSOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MODELOS DE MATURIDADE DE PROCESSOS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30bd3320ef751b37",
+    "type": "split",
+    "children": [
+      {
+        "id": "67517189e86e8753",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6bee6d8ea743dd4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "ed18b6e80fcedf48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fae49b93fecccab1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2edee17def65bb8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd9775d2a30bc69a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2024d0677fc3eb84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Search.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Search"
+            }
+          },
+          {
+            "id": "b937c908b3125384",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Search.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Search"
+            }
+          },
+          {
+            "id": "bb37b09838823890",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2656d930ce2d0b7e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Search.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "29c53505ad0b1b66",
+  "lastOpenFiles": [
+    "Testes e Manutenção de Software.md",
+    "MODELOS DE MATURIDADE DE PROCESSOS.md",
+    "CONCEITO DE QUALIDADE DE SOFTWARE.md",
+    "NORMAS  DE QUALIDADE.md",
+    "OUTROS CASOS NOTÁVEIS ....md",
+    "CARACTERÍSTICAS E ASPECTOS.md",
+    "Requirements.md",
+    "Planning.md",
+    "Search.md",
+    "Welcome.md"
+  ]
+}
