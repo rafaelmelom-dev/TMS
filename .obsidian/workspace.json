@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29c53505ad0b1b66",
+            "id": "0a526ac3e6e0bcac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,10 +168,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "29c53505ad0b1b66",
+  "active": "0a526ac3e6e0bcac",
   "lastOpenFiles": [
     "OUTROS CASOS NOTÁVEIS ....md",
     "Testes e Manutenção de Software.md",
+    "BOAS PRÁTICAS.md",
+    "GERANDO VERSÕES.md",
     "wallhaven-0q7ddl_1920x1080.png",
     "README.md",
     "CARACTERÍSTICAS E ASPECTOS.md",
