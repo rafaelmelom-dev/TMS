@@ -6,3 +6,4 @@ Pesquise sobre:
 3. Pesquisa sobre os autores indicados e aponte algumas de suas principais obras e contribuições para a área de Qualidade de Software.
 
 ---
+
