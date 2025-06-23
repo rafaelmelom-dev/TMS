@@ -11,10 +11,14 @@
             "id": "09138d19f19027f7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "IGNORANDO ARQUIVOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IGNORANDO ARQUIVOS"
             }
           }
         ]
@@ -166,11 +170,16 @@
   },
   "active": "09138d19f19027f7",
   "lastOpenFiles": [
-    "OUTROS CASOS NOTÁVEIS ....md",
-    "Introdução a Testes e Manutenção de Software.md",
+    "Controle de Versões.md",
     "Testes e Manutenção de Software.md",
     "NORMAS  DE QUALIDADE.md",
+    "IGNORANDO ARQUIVOS.md",
     "REPOSITÓRIOS E PRIMEIROS PASSOS.md",
+    "pratica/hellogit/Hello.class",
+    "pratica/hellogit/hello.java~",
+    "pratica/hellogit/hello.java",
+    "OUTROS CASOS NOTÁVEIS ....md",
+    "Introdução a Testes e Manutenção de Software.md",
     "Práticas/TesteGIT/hellogit/hello.java",
     "Práticas/TesteGIT/hellogit/hello.class",
     "Práticas/TesteGIT/hellogit",
@@ -178,7 +187,6 @@
     "Práticas/TesteGit",
     "Práticas",
     "Prática",
-    "Controle de Versões.md",
     "INSTALAÇÃO E CONFIGURAÇÃO.md",
     "GERANDO VERSÕES.md",
     "BOAS PRÁTICAS.md",
