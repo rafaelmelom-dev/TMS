@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aed80c4e6d125cc7",
+        "id": "7124f8b5a8159ba9",
         "type": "tabs",
         "children": [
           {
-            "id": "09138d19f19027f7",
+            "id": "5c72e06df6d8c2a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESTADOS E DIFERENÇAS.md",
+                "file": "HISTÓRICO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ESTADOS E DIFERENÇAS"
+              "title": "HISTÓRICO"
             }
           }
         ]
@@ -168,18 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09138d19f19027f7",
+  "active": "5c72e06df6d8c2a6",
   "lastOpenFiles": [
     "Controle de Versões.md",
     "Testes e Manutenção de Software.md",
+    "HISTÓRICO.md",
     "ESTADOS E DIFERENÇAS.md",
+    "REPOSITÓRIOS E PRIMEIROS PASSOS.md",
+    "README.md",
     "pratica/hellogit/hello.md",
     "pratica/hellogit/hello.txt~",
     "pratica/hellogit/hello.txt",
     "pratica/hellogit/hello.java~",
     "IGNORANDO ARQUIVOS.md",
     "pratica/hellogit/hello.tmp",
-    "REPOSITÓRIOS E PRIMEIROS PASSOS.md",
     "MODELOS DE MATURIDADE DE PROCESSOS.md",
     "NORMAS  DE QUALIDADE.md",
     "pratica/hellogit/Hello.class",
@@ -196,7 +198,6 @@
     "2025-06-20.md",
     "CARACTERÍSTICAS E ASPECTOS.md",
     "CONCEITO DE QUALIDADE DE SOFTWARE.md",
-    "README.md",
     "wallhaven-0q7ddl_1920x1080.png",
     "Requirements.md",
     "Planning.md",
