@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7124f8b5a8159ba9",
+        "id": "09a6e6c10a9119ee",
         "type": "tabs",
         "children": [
           {
-            "id": "5c72e06df6d8c2a6",
+            "id": "6ef04d58e5e7d13a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HISTÓRICO.md",
+                "file": "Testes e Manutenção de Software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HISTÓRICO"
+              "title": "Testes e Manutenção de Software"
             }
           }
         ]
@@ -168,11 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c72e06df6d8c2a6",
+  "active": "6ef04d58e5e7d13a",
   "lastOpenFiles": [
+    "TAGS.md",
     "Controle de Versões.md",
     "Testes e Manutenção de Software.md",
+    "DESFAZENDO.md",
+    "pratica/desfazendo/referencias.md",
+    "pratica/desfazendo/reparo.md",
+    "pratica/desfazendo",
     "HISTÓRICO.md",
+    "wl-copy",
     "ESTADOS E DIFERENÇAS.md",
     "REPOSITÓRIOS E PRIMEIROS PASSOS.md",
     "README.md",
@@ -190,8 +196,6 @@
     "Introdução a Testes e Manutenção de Software.md",
     "Práticas/TesteGIT/hellogit/hello.java",
     "Práticas/TesteGIT/hellogit/hello.class",
-    "Práticas/TesteGIT/hellogit",
-    "Práticas/TesteGIT",
     "INSTALAÇÃO E CONFIGURAÇÃO.md",
     "GERANDO VERSÕES.md",
     "BOAS PRÁTICAS.md",

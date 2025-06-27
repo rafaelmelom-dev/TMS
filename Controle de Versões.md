@@ -6,3 +6,5 @@
 [[IGNORANDO ARQUIVOS]]  
 [[ESTADOS E DIFERENÇAS]]    
 [[HISTÓRICO]]    
+[[DESFAZENDO]]   
+[[TAGS]]  
