@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "09a6e6c10a9119ee",
+        "id": "9d34be235217970b",
         "type": "tabs",
         "children": [
           {
-            "id": "6ef04d58e5e7d13a",
+            "id": "d7eec2ffa1c4a364",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testes e Manutenção de Software.md",
+                "file": "ENVIAR DADOS LOCAIS PARA O REMOTO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testes e Manutenção de Software"
+              "title": "ENVIAR DADOS LOCAIS PARA O REMOTO"
             }
           }
         ]
@@ -168,12 +168,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ef04d58e5e7d13a",
+  "active": "d7eec2ffa1c4a364",
   "lastOpenFiles": [
-    "TAGS.md",
     "Controle de Versões.md",
+    "COMPARTILHAR UM REPOSITÓRIO REMOTO.md",
     "Testes e Manutenção de Software.md",
+    "imagens/print_log_github.png",
+    "imagens/Screenshot.md",
+    "CRIAR E CONFIGURAR UM REPOSITÓRIO REMOTO 2.md",
+    "Screenshot.md",
+    "imagens",
+    "ENVIAR DADOS LOCAIS PARA O REMOTO.md",
+    "pratica/meu_remoto/README.md",
+    "CRIAR E CONFIGURAR UM REPOSITÓRIO REMOTO.md",
+    "GERANDO VERSÕES.md",
+    "Introdução a Testes e Manutenção de Software.md",
+    "kfsdlakfjasldk.md",
+    "pratica/meu_remoto",
+    "Testes.md",
     "DESFAZENDO.md",
+    "TAGS.md",
+    "CONCEITOS SOBRE TESTES.md",
     "pratica/desfazendo/referencias.md",
     "pratica/desfazendo/reparo.md",
     "pratica/desfazendo",
@@ -189,23 +204,8 @@
     "IGNORANDO ARQUIVOS.md",
     "pratica/hellogit/hello.tmp",
     "MODELOS DE MATURIDADE DE PROCESSOS.md",
-    "NORMAS  DE QUALIDADE.md",
     "pratica/hellogit/Hello.class",
     "pratica/hellogit/hello.java",
-    "OUTROS CASOS NOTÁVEIS ....md",
-    "Introdução a Testes e Manutenção de Software.md",
-    "Práticas/TesteGIT/hellogit/hello.java",
-    "Práticas/TesteGIT/hellogit/hello.class",
-    "INSTALAÇÃO E CONFIGURAÇÃO.md",
-    "GERANDO VERSÕES.md",
-    "BOAS PRÁTICAS.md",
-    "2025-06-20.md",
-    "CARACTERÍSTICAS E ASPECTOS.md",
-    "CONCEITO DE QUALIDADE DE SOFTWARE.md",
-    "wallhaven-0q7ddl_1920x1080.png",
-    "Requirements.md",
-    "Planning.md",
-    "Search.md",
-    "Welcome.md"
+    "wallhaven-0q7ddl_1920x1080.png"
   ]
 }
