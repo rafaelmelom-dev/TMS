@@ -1,3 +1,0 @@
-## Atividades 
-
-[[CONCEITOS SOBRE TESTES]]  
