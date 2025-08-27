@@ -11,4 +11,6 @@
 	* Salvar e carregar as tarefas em arquivos.
 
 ---
-## 
+## Projeto 
+
+Para a atividade foi criado um projeto Maven nomeado **GerenciadorTarefas**, na pasta **praticas**.

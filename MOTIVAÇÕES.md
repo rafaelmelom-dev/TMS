@@ -21,3 +21,5 @@ O Therac-25 é uma máquina de radioterapia controlada por software, a falha est
 Fonte: https://en.wikipedia.org/wiki/Therac-25
 
 ## Sucesso nos testes
+
+Uma empresa chamada [Auditeste](https://auditeste.com.br/cases-de-sucesso/) tem uma seção de cases de sucesso, onde podemos ter uma pequena prévia do benefício dos testes. Como o caso da empresa Cinemark, onde teve uma notável atuação com testes de sobrecarga, e registrando o problema de capacidade da empresa.

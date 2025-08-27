@@ -131,4 +131,34 @@ public class CalculatorTest {
 
         assertEquals(6, res);
     }
+
+    @Test
+    public void testSqrtExcep() {
+        Calculator calculator = new Calculator();
+
+        assertThrows(IllegalArgumentException.class, () -> {
+            calculator.raizQ(-1);
+        });
+    }
+
+    @Test
+    public void testSqrt() {
+        Calculator calculator = new Calculator();
+
+        try {
+            double res = calculator.raizQ(-1);
+
+            assertEquals(2, res);
+        } catch (IllegalArgumentException e) {
+        }
+    }
+
+    @Test
+    public void testPotenc() {
+        Calculator calculator = new Calculator();
+
+        double res = calculator.pontenc(2.0, 3);
+
+        assertEquals(8, res);
+    }
 }

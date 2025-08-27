@@ -11,4 +11,10 @@
 	* Strings curtas e strings longas.
 
 ---
-## 
+## Testando a manipulação de strings
+
+Enquanto o projeto anterior foi mais utilizado para aprender sobre a ferramenta, esse será um pequeno exemplo de projeto que utiliza o JUnit.
+
+E o projeto para essa atividade será nomeado como **ManStr**.
+
+Experiências observadas: ocorreu um caso particular, que ajudou a construir a lógica da função, que foi reconhecida por meio do teste.

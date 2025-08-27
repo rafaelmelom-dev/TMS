@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: ufu.tms.junittest.junittest.CalculatorTest
 -------------------------------------------------------------------------------
-Tests run: 11, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.057 s -- in ufu.tms.junittest.junittest.CalculatorTest
+Tests run: 14, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.075 s -- in ufu.tms.junittest.junittest.CalculatorTest
