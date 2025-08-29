@@ -1,3 +1,0 @@
-## Atividades
-
-[[INJEÇÃO DE DEPENDÊNCIAS]]  

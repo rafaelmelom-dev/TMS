@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INJEÇÃO DE DEPENDÊNCIAS.md",
+                "file": "Testes e Manutenção de Software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INJEÇÃO DE DEPENDÊNCIAS"
+              "title": "Testes e Manutenção de Software"
             }
           }
         ]
@@ -171,28 +171,29 @@
   },
   "active": "d2c82d8d1cb61ced",
   "lastOpenFiles": [
-    "pratica/InjDep/target/surefire/surefirebooter-20250826165449000_3.jar",
-    "pratica/InjDep/target/surefire/surefire_0-20250826165449000_2tmp",
-    "pratica/InjDep/target/surefire/surefire-20250826165449000_1tmp",
-    "pratica/InjDep/target/surefire",
-    "pratica/InjDep/target/surefire/surefirebooter-20250826165343195_3.jar",
-    "pratica/InjDep/target/surefire/surefire_0-20250826165343195_2tmp",
-    "pratica/InjDep/target/surefire/surefire-20250826165343195_1tmp",
-    "pratica/InjDep/target/surefire/surefirebooter-20250826164905571_3.jar",
-    "pratica/InjDep/target/surefire/surefire_0-20250826164905571_2tmp",
-    "pratica/InjDep/target/surefire/surefire-20250826164905571_1tmp",
-    "pratica/InjDep/target/surefire/surefirebooter-20250826164836672_3.jar",
-    "Tópico novo.md",
-    "INJEÇÃO DE DEPENDÊNCIAS.md",
+    "Framework para Automação de Testes.md",
+    "TESTES PARAMETRIZADOS (2).md",
     "Testes e Manutenção de Software.md",
     "Introdução aos Testes de Software.md",
+    "HISTÓRICO E EVOLUÇÃO.md",
+    "INJEÇÃO DE DEPENDÊNCIAS.md",
+    "artigos/Continuous_Security_Testing_A_Case_Study_on_Integrating_Dynamic_Security_Testing_Tools_in_CI_CD_Pipelines.pdf",
+    "TESTES PARAMETRIZADOS (1).md",
+    "TIPOS DE TESTE.md",
+    "pratica/ParametrizedTest/target/test-classes/ParametrizedTest/UsuarioTest.class",
+    "pratica/ParametrizedTest/target/test-classes/ParametrizedTest/AppTest.class",
+    "pratica/ParametrizedTest/target/test-classes/ParametrizedTest",
+    "pratica/ParametrizedTest/target/classes/ParametrizedTest/Usuario.class",
+    "pratica/ParametrizedTest/target/classes/ParametrizedTest/ExceededAttemptsException.class",
+    "pratica/ParametrizedTest/target/classes/ParametrizedTest/App.class",
+    "pratica/ParametrizedTest/target/classes/ParametrizedTest",
+    "pratica/ParametrizedTest/src/test/java/ParametrizedTest/UsuarioTest.java",
+    "pratica/ParametrizedTest/src/test/java/ParametrizedTest/AppTest.java",
     "LISTAS DE TAREFAS.md",
     "MANIPULAÇÃO DE STRINGS.md",
     "ESTENDENDO A CALCULADORA (2).md",
     "ESTENDENDO A CALCULADORA (1).md",
     "HELLO, WORLD TESTS!.md",
-    "TIPOS DE TESTE.md",
-    "HISTÓRICO E EVOLUÇÃO.md",
     "VAGAS.md",
     "MOTIVAÇÕES.md",
     "CONCEITOS SOBRE TESTES.md",
@@ -206,8 +207,6 @@
     "CRIAR E CONFIGURAR UM REPOSITÓRIO REMOTO (1).md",
     "imagens/print_log_github.png",
     "imagens/Screenshot.md",
-    "Screenshot.md",
-    "pratica/meu_remoto/README.md",
     "wallhaven-0q7ddl_1920x1080.png"
   ]
 }
