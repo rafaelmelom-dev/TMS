@@ -7,4 +7,5 @@
 5. Compare as várias versões de testes criadas e analise as vantagens e desvantagens de cada uma.
 
 --- 
-## 
+
+O código para a atividade está na pasta de **pratica**, no projeto **ParametrizedTest**.

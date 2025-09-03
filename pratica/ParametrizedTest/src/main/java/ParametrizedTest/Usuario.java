@@ -71,7 +71,7 @@ public class Usuario {
 
         for (int i = 0; i < dominio.length(); i++) {
             if (!Character.isLetter(dominio.charAt(i))) {
-                throw new Exception("Domínio inválido");
+                throw new Exception("Domínio inválido!");
             }
         }
 
@@ -98,6 +98,12 @@ public class Usuario {
 
     public boolean autenticar(String senha, String algoritmo)
         throws ExceededAttemptsException, NoSuchAlgorithmException {
+        String algoritmoUsado = "SHA-256";
+
+        if (algoritmo != algoritmoUsado) {
+            throw new NoSuchAlgorithmException("Algoritmo de hash não usado");
+        }
+
         if (tentativas == 0) {
             timeInicio = System.currentTimeMillis();
         }
@@ -138,7 +144,10 @@ public class Usuario {
 
             return hashString.equals(this.senhaHash);
         } catch (NoSuchAlgorithmException e) {
-            return false;
+            throw new NoSuchAlgorithmException(
+                "Algoritmo de hash não encontrado",
+                e
+            );
         }
     }
 }

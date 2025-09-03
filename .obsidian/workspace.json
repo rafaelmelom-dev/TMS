@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testes e Manutenção de Software.md",
+                "file": "Revisitando a calculadora (1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testes e Manutenção de Software"
+              "title": "Revisitando a calculadora (1)"
             }
           }
         ]
@@ -171,24 +171,37 @@
   },
   "active": "d2c82d8d1cb61ced",
   "lastOpenFiles": [
-    "Framework para Automação de Testes.md",
-    "TESTES PARAMETRIZADOS (2).md",
+    "Estratégias e Boas Práticas para Testes.md",
+    "Revisitando a calculadora (1).md",
     "Testes e Manutenção de Software.md",
+    "Framework para Automação de Testes.md",
+    "Framework para Automação de Testes (Práticas Complementares).md",
+    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/project-info.html",
+    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/summary.html",
+    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/plugins.html",
+    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/plugin-management.html",
+    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/index.html",
+    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/dependency-management.html",
+    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/dependency-info.html",
+    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/images/close.gif",
+    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/dependencies.html",
+    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/css/site.css",
+    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/css/print.css",
+    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/images/logos/maven-feather.png",
+    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/images/logos/build-by-maven-white.png",
+    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/images/logos/build-by-maven-black.png",
+    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/images/newwindow.png",
+    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/images/icon_warning_sml.gif",
+    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/images/icon_success_sml.gif",
+    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/images/icon_info_sml.gif",
+    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/images/icon_error_sml.gif",
+    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/images/external.png",
+    "TESTES PARAMETRIZADOS (2).md",
+    "TESTES PARAMETRIZADOS (1).md",
+    "INJEÇÃO DE DEPENDÊNCIAS.md",
     "Introdução aos Testes de Software.md",
     "HISTÓRICO E EVOLUÇÃO.md",
-    "INJEÇÃO DE DEPENDÊNCIAS.md",
-    "artigos/Continuous_Security_Testing_A_Case_Study_on_Integrating_Dynamic_Security_Testing_Tools_in_CI_CD_Pipelines.pdf",
-    "TESTES PARAMETRIZADOS (1).md",
     "TIPOS DE TESTE.md",
-    "pratica/ParametrizedTest/target/test-classes/ParametrizedTest/UsuarioTest.class",
-    "pratica/ParametrizedTest/target/test-classes/ParametrizedTest/AppTest.class",
-    "pratica/ParametrizedTest/target/test-classes/ParametrizedTest",
-    "pratica/ParametrizedTest/target/classes/ParametrizedTest/Usuario.class",
-    "pratica/ParametrizedTest/target/classes/ParametrizedTest/ExceededAttemptsException.class",
-    "pratica/ParametrizedTest/target/classes/ParametrizedTest/App.class",
-    "pratica/ParametrizedTest/target/classes/ParametrizedTest",
-    "pratica/ParametrizedTest/src/test/java/ParametrizedTest/UsuarioTest.java",
-    "pratica/ParametrizedTest/src/test/java/ParametrizedTest/AppTest.java",
     "LISTAS DE TAREFAS.md",
     "MANIPULAÇÃO DE STRINGS.md",
     "ESTENDENDO A CALCULADORA (2).md",
@@ -203,10 +216,6 @@
     "COLABORANDO COM RAMOS REMOTOS (1).md",
     "ENVIAR DADOS LOCAIS PARA O REMOTO.md",
     "COMPARTILHAR UM REPOSITÓRIO REMOTO.md",
-    "CRIAR E CONFIGURAR UM REPOSITÓRIO REMOTO (2).md",
-    "CRIAR E CONFIGURAR UM REPOSITÓRIO REMOTO (1).md",
-    "imagens/print_log_github.png",
-    "imagens/Screenshot.md",
-    "wallhaven-0q7ddl_1920x1080.png"
+    "CRIAR E CONFIGURAR UM REPOSITÓRIO REMOTO (2).md"
   ]
 }

@@ -2,8 +2,10 @@ package ParametrizedTest;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import java.security.NoSuchAlgorithmException;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
+import org.junit.jupiter.params.provider.CsvSource;
 import org.junit.jupiter.params.provider.ValueSource;
 
 public class UsuarioTest {
@@ -114,7 +116,7 @@ public class UsuarioTest {
             usuario.setNome("usuario");
             usuario.setSenha("senha");
 
-            assertTrue(usuario.autenticar("senha"));
+            assertTrue(usuario.autenticar("senha", "SHA-256"));
         } catch (Exception e) {}
     }
 
@@ -126,10 +128,10 @@ public class UsuarioTest {
             usuario.setNome("usuario");
             usuario.setSenha("senha");
 
-            usuario.autenticar("senhas");
-            usuario.autenticar("senhas");
+            usuario.autenticar("senhas", "SHA-256");
+            usuario.autenticar("senhas", "SHA-256");
 
-            assertTrue(usuario.autenticar("senha"));
+            assertTrue(usuario.autenticar("senha", "SHA-256"));
         } catch (Exception e) {}
     }
 
@@ -141,12 +143,12 @@ public class UsuarioTest {
             usuario.setNome("usuario");
             usuario.setSenha("senha");
 
-            usuario.autenticar("senhas");
-            usuario.autenticar("senhas");
-            usuario.autenticar("senhas");
+            usuario.autenticar("senhas", "SHA-256");
+            usuario.autenticar("senhas", "SHA-256");
+            usuario.autenticar("senhas", "SHA-256");
         } catch (ExceededAttemptsException e) {
             assertThrows(ExceededAttemptsException.class, () ->
-                usuario.autenticar("senha")
+                usuario.autenticar("senha", "SHA-256")
             );
         } catch (Exception e) {}
     }
@@ -159,15 +161,15 @@ public class UsuarioTest {
             usuario.setNome("usuario");
             usuario.setSenha("senha");
 
-            usuario.autenticar("senhas");
-            usuario.autenticar("senhas");
+            usuario.autenticar("senhas", "SHA-256");
+            usuario.autenticar("senhas", "SHA-256");
 
             Thread.sleep(30000);
 
-            usuario.autenticar("senhas");
-            usuario.autenticar("senhas");
+            usuario.autenticar("senhas", "SHA-256");
+            usuario.autenticar("senhas", "SHA-256");
 
-            assertTrue(usuario.autenticar("senha"));
+            assertTrue(usuario.autenticar("senha", "SHA-256"));
         } catch (ExceededAttemptsException e) {} catch (Exception e) {}
     }
 
@@ -179,9 +181,9 @@ public class UsuarioTest {
             usuario.setNome("usuario");
             usuario.setSenha("senha");
 
-            usuario.autenticar("senhas");
-            usuario.autenticar("senhas");
-            usuario.autenticar("senhas");
+            usuario.autenticar("senhas", "SHA-256");
+            usuario.autenticar("senhas", "SHA-256");
+            usuario.autenticar("senhas", "SHA-256");
 
             fail("Deveria ter lançado ExceededAttemptsException");
         } catch (ExceededAttemptsException e) {
@@ -189,11 +191,27 @@ public class UsuarioTest {
                 Thread.sleep(60000);
 
                 try {
-                    assertTrue(usuario.autenticar("senha"));
+                    assertTrue(usuario.autenticar("senha", "SHA-256"));
                 } catch (ExceededAttemptsException exp) {
                     fail("Deveria ter lançado ExceededAttemptsException");
-                }
+                } catch (Exception ex) {}
             } catch (InterruptedException ex) {}
+        } catch (Exception e) {}
+    }
+
+    // teste de sobrecarga
+    @ParameterizedTest
+    @CsvSource({ "senha, SHA-1", "senha, SHA-512", "senha, MD5" })
+    public void testAutenticarSobrecarga(String senha, String algoritmo) {
+        Usuario usuario = new Usuario();
+
+        try {
+            usuario.setNome("usuario");
+            usuario.setSenha(senha);
+
+            assertThrows(NoSuchAlgorithmException.class, () ->
+                usuario.autenticar(senha, algoritmo)
+            );
         } catch (Exception e) {}
     }
 }

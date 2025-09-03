@@ -54,4 +54,4 @@ public class Usuario { 
 }
 ```
 
-Lembrar de relatar a atividade, e adicionar informações ao report.
+O código para a atividade está na pasta de atividades **prática**, no projeto **InjDep**. 
