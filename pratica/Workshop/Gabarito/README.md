@@ -1,0 +1,3 @@
+## Breve explicação do Gabarito
+
+A atividade proposta tinha como objetivo, os alunos criarem um projeto com o maven, pesquisar algumas bibliotecas, para estimular a pesquisa no site [Maven Repository](https://mvnrepository.com), registrá-las no arquivo **pom.xml**, usarem comandos para baixarem as dependências, para eles verem como as dependências são instaladas, utilizando comandos como `mvn dependency:resolve`. E após isso criarem um site para visualizar as configurações do projeto, que pode ser feito por meio do comando `mvn site`, que gerará arquivos na pasta **target/site**. E opicionalmente, não fazendo parte da atividade, eles explorarem mais sobre o plugin de dependência.
