@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revisitando a calculadora (1).md",
+                "file": "Exercitando TDD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revisitando a calculadora (1)"
+              "title": "Exercitando TDD"
             }
           }
         ]
@@ -172,8 +172,10 @@
   "active": "d2c82d8d1cb61ced",
   "lastOpenFiles": [
     "Estratégias e Boas Práticas para Testes.md",
-    "Revisitando a calculadora (1).md",
+    "Exercitando TDD.md",
+    "Revisando a calculadora (2).md",
     "Testes e Manutenção de Software.md",
+    "Revisitando a calculadora (1).md",
     "Framework para Automação de Testes.md",
     "Framework para Automação de Testes (Práticas Complementares).md",
     "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/project-info.html",
@@ -214,8 +216,6 @@
     "Controle de Versões.md",
     "COLABORANDO COM RAMOS REMOTOS (2).md",
     "COLABORANDO COM RAMOS REMOTOS (1).md",
-    "ENVIAR DADOS LOCAIS PARA O REMOTO.md",
-    "COMPARTILHAR UM REPOSITÓRIO REMOTO.md",
-    "CRIAR E CONFIGURAR UM REPOSITÓRIO REMOTO (2).md"
+    "ENVIAR DADOS LOCAIS PARA O REMOTO.md"
   ]
 }
