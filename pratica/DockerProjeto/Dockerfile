@@ -1,7 +1,7 @@
 # Teste para versão do Python 3.11
-# FROM python:3.11-slim
+FROM python:3.11-slim
 # Teste para versão do Python 3.8
-FROM python:3.8-slim
+#FROM python:3.8-slim
 
 # Diretório de trabalho
 WORKDIR /app

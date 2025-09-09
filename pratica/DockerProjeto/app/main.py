@@ -38,12 +38,12 @@ def get_config():
 
     try:
         # Funciona apenas para Python > 3.9
-        # config = config_padrao | config_usuario
+        config = config_padrao | config_usuario
 
         # Funciona perfeitamente para Python <= 3.8
-        config = {}
-        config.update(config_padrao)
-        config.update(config_usuario)
+        # config = {}
+        # config.update(config_padrao)
+        # config.update(config_usuario)
 
         return {
             "mensagem": "Configurações carregadas com sucesso!",
