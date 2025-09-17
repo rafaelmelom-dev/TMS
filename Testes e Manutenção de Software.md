@@ -5,9 +5,9 @@
 [[Introdução aos Testes de Software]]  
 [[Framework para Automação de Testes]]   
 [[Framework para Automação de Testes (Práticas Complementares)]]  
-[[Tem outra aula aqui -> aula do slide 8]]
+[[Framework para Automação de Testes(3)]]
 [[Estratégias e Boas Práticas para Testes]]  
-[[Refatoração]] (ver depois o título exato)
+[[Refatoração]]   
 
 
 
