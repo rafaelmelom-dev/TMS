@@ -1,4 +1,4 @@
 # Atividades 
 
 [[Detecção de Code Smells]]  
-[[Refatoração(1)]]  
+[[Refatoração(atividade)]]  

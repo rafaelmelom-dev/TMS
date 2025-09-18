@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3d1e52afca2ccca7",
+        "id": "97bf0325bdc64d32",
         "type": "tabs",
         "children": [
           {
-            "id": "d2c82d8d1cb61ced",
+            "id": "9066c9123fa6bef1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOAS PRÁTICAS.md",
+                "file": "Situação (Tabela).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BOAS PRÁTICAS"
+              "title": "Situação (Tabela)"
+            }
+          },
+          {
+            "id": "a2e5cdf6f88f11f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testes e Manutenção de Software.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Testes e Manutenção de Software"
             }
           }
         ]
@@ -169,16 +183,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2c82d8d1cb61ced",
+  "active": "9066c9123fa6bef1",
   "lastOpenFiles": [
     "Testes e Manutenção de Software.md",
+    "Framework para Automação de Testes (Práticas Complementares).md",
+    "Controle de Versões.md",
+    "HISTÓRICO.md",
+    "Introdução aos Testes de Software.md",
+    "Framework para Automação de Testes.md",
+    "INJEÇÃO DE DEPENDÊNCIAS.md",
+    "Situação (Tabela).md",
+    "HISTÓRICO E EVOLUÇÃO.md",
+    "HELLO, WORLD TESTS!.md",
     "Framework para Automação de Testes(3).md",
     "Demais Dublês de Teste.md",
     "Refatoração.md",
-    "Refatoração(1).md",
+    "Refatoração(atividade).md",
     "Detecção de Code Smells.md",
     "Estratégias e Boas Práticas para Testes.md",
+    "Revisando a calculadora (2).md",
+    "Revisitando a calculadora (1).md",
+    "TESTES PARAMETRIZADOS (2).md",
+    "TESTES PARAMETRIZADOS (1).md",
+    "ESTENDENDO A CALCULADORA (1).md",
+    "ESTENDENDO A CALCULADORA (2).md",
+    "GERANDO VERSÕES.md",
+    "Introdução a Testes e Manutenção de Software.md",
     "Exercitando TDD.md",
+    "Estratégias e Boas Práticas para Testes(2).md",
+    "imagens/SupportTest.png",
+    "imagens/ExampleTest.png",
+    "imagens/EnclosedTest.png",
     "pratica/Workshop/WorkshopRefat/refactor-workshop/refactor-workshop/target/classes/com/refactor/DuplicateCodeExample.class",
     "pratica/Workshop/WorkshopRefat/refactor-workshop/refactor-workshop/target/classes/com/refactor/DuplicateCodeExample$Product.class",
     "pratica/Workshop/WorkshopRefat/refactor-workshop/refactor-workshop/target/classes/com/refactor/DataClassExample.class",
@@ -189,33 +224,12 @@
     "pratica/Workshop/WorkshopRefat/refactor-workshop/refactor-workshop/target/classes/com/refactor/ConditionalDivergenceExample.class",
     "pratica/Workshop/WorkshopRefat/refactor-workshop/refactor-workshop/target/classes/com/refactor/ConditionalDivergenceExample$AccountType.class",
     "pratica/Workshop/WorkshopRefat/refactor-workshop/refactor-workshop/target/classes/com/refactor/LongParameterListExample.class",
-    "pratica/Workshop/WorkshopRefat/refactor-workshop/refactor-workshop/README.md",
-    "Framework para Automação de Testes (Práticas Complementares).md",
-    "Revisando a calculadora (2).md",
-    "Revisitando a calculadora (1).md",
-    "Framework para Automação de Testes.md",
     "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/images/close.gif",
     "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/images/logos/maven-feather.png",
     "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/images/logos/build-by-maven-white.png",
     "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/images/logos/build-by-maven-black.png",
     "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/images/newwindow.png",
     "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/images/icon_warning_sml.gif",
-    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/images/icon_success_sml.gif",
-    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/images/icon_info_sml.gif",
-    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/images/icon_error_sml.gif",
-    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/images/external.png",
-    "TESTES PARAMETRIZADOS (2).md",
-    "TESTES PARAMETRIZADOS (1).md",
-    "INJEÇÃO DE DEPENDÊNCIAS.md",
-    "Introdução aos Testes de Software.md",
-    "HISTÓRICO E EVOLUÇÃO.md",
-    "TIPOS DE TESTE.md",
-    "LISTAS DE TAREFAS.md",
-    "MANIPULAÇÃO DE STRINGS.md",
-    "ESTENDENDO A CALCULADORA (2).md",
-    "ESTENDENDO A CALCULADORA (1).md",
-    "HELLO, WORLD TESTS!.md",
-    "VAGAS.md",
-    "MOTIVAÇÕES.md"
+    "pratica/Workshop/Gabarito/Workshop.GerenciaProjetos/target/site/images/icon_success_sml.gif"
   ]
 }
