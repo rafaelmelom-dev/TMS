@@ -4,4 +4,4 @@ Este repositório tem o objetivo de registrar as atividades e rascunhos proposta
 
 `Testes e Manutenção de Software.md` > Arquivo onde se encontra os índices das atividades (processados pelo software Obsidian), ordenados a medidas que foram propostos e nomeados de acordo com cada atividade.
 
-Logo os demais arquivos Mardown são as atividades em si.
+Logo os demais arquivos Markdown são as atividades em si.
